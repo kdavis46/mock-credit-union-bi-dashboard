@@ -85,7 +85,31 @@ assets/
 
 ---
 
+## Dataset Disclaimer
+
+This project uses a synthetic relational dataset generated with Mockaroo for portfolio and demonstration purposes.
+
+The dataset was designed to simulate a realistic credit union business environment and includes approximately 1,000 records across interconnected domains including members, accounts, transactions, and loans.
+
+---
+
 ## Dashboard Preview
 
-(Add screenshots here)
+Dashboard files are available in the `/dashboard` folder:
+
+- `credit_union_dashboard.pbix`
+- `credit_union_dashboard_preview.pdf`
+
+---
+
+## Repository Contents
+
+### dashboard/
+Contains Power BI dashboard files and dashboard exports.
+
+### documentation/
+Contains business case documentation, ETL workflow notes, KPI logic, and project findings.
+
+### sql/
+Contains PostgreSQL schema scripts, data loading scripts, validation queries, and business analysis queries.
 
