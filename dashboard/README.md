@@ -13,4 +13,23 @@ The dataset was designed to simulate a realistic credit union business environme
 - Transactions
 - Loans
 
-Relationships, field structures, financial metrics, and business scenarios were intentionally modeled to reflect real-world BI reporting and analytical workflows.
+## Included Files
+
+### credit_union_dashboard.pbix
+Primary Power BI dashboard source file containing:
+- data model
+- DAX measures
+- KPI reporting
+- interactive visuals
+- dashboard pages
+
+### credit_union_dashboard_preview.pdf
+PDF export of the full multi-page dashboard for quick viewing without Power BI Desktop.
+
+## Dashboard Pages
+
+- Executive Dashboard
+- Customer Insights
+- Transaction Analysis
+- Account Performance
+- Loan Portfolio Health
